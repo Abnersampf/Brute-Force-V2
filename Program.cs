@@ -34,7 +34,7 @@ class Program
                 result++;
         return result;
     }
-    // Generate all possible combinations of a string based on a character set
+    // Generate all possible combinations of a string based on a charset
     static void bf(string attempt, string pass)
     {
         // Console.WriteLine(attempt); -> uncomment this line if you want to see the combinations beeing generated
