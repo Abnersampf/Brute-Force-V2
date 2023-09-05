@@ -18,3 +18,28 @@ IMPORTANT:
 - I don't recommend running this code in online compilers, as they are extremely slow (compile on your machine);
 - I recommend using Visual Studio;
 - Don't run this program in your IDE's terminal (unless you're using Visual Studio, because it already opens the .exe file directly), look for the .exe file that was generated (after compiling) and run it.
+
+<br>
+
+PROGRAM IMAGES:
+- Enter a password and hit enter.
+<div>
+   <img src="https://github.com/Abnersampf/Brute-Force-V2/assets/58574013/725f97d4-2947-4ca2-a3db-90d4f996f2ad" width="900px" />
+</div>
+
+<br>
+
+- Uncomment line 40 to see the combinations beeing generated. I don't recommend doing this as it delays the process a LOT.
+<div>
+   <img src="https://github.com/Abnersampf/Brute-Force-V2/assets/58574013/2226068b-8d3d-4583-b7fd-c816835a8890" width="900px" />
+</div>
+<div>
+   <img src="https://github.com/Abnersampf/Brute-Force-V2/assets/58574013/c30d686c-ffe8-4fdb-9019-f5e1b6edc694" width="900px" />
+</div>
+
+<br>
+
+- Wait for the program to find the password
+<div>
+   <img src="https://github.com/Abnersampf/Brute-Force-V2/assets/58574013/0bcf67b3-49b7-4a78-9b97-3bdaf07b144b" width="900px" />
+</div>
