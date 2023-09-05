@@ -8,7 +8,7 @@ ABOUT THE PROGRAM:
 
 CHANGING THE LENGTH OF THE PASSWORD THAT THE PROGRAM WILL START TESTING:
 - Go to the length variable and change its value.
-  EXAMPLE:
+  - EXAMPLE:
   - If you want to start cracking 8-character passwords, change the "length" value to 7;
   - If you want to start cracking 12-character passwords, change the "length" value to 11];
   (Always put one less than the number you want).
