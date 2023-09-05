@@ -7,7 +7,7 @@ ABOUT THE PROGRAM:
 - You can choose the length of the password you want to start with.
 
 CHANGING THE LENGTH OF THE PASSWORD THAT THE PROGRAM WILL START TESTING:
-- Go to the length variable and change its value
+- Go to the length variable and change its value.
   EXAMPLE:
   - If you want to start cracking 8-character passwords, change the "length" value to 7;
   - If you want to start cracking 12-character passwords, change the "length" value to 11];
